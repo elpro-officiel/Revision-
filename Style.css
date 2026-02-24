@@ -3,3 +3,9 @@ body{
     padding: 0px;
     background-color: burlywood;
 }
+input{
+    background-color: darkred;
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+}
